@@ -6,9 +6,9 @@ This final project is for CS128 honor in the University of Illinois, started in 
 
 - Ander
 
-- Brandon
+- Brandon Dinh (bhdinh2)
 
-- Liur
+- Liur 
 
 ## S1mple Chat
 
