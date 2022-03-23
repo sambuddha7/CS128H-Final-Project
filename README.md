@@ -10,7 +10,7 @@ This final project is for CS128 honor in the University of Illinois, started in 
 
 - Liur
 
-## Project Name (TBD)
+## S1mple Chat
 
 In this project, we will be building a chat server that allows its users to play Blackjack.
 
