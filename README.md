@@ -1,6 +1,6 @@
 # CS128H-Final-Project
 
-This is a final project for CS128 honor in the University of Illinois, started in SP2022.
+This final project is for CS128 honor in the University of Illinois, started in SP2022.
 
 ## Group Members
 
