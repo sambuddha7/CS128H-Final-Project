@@ -4,7 +4,7 @@ This final project is for CS128 honor in the University of Illinois, started in 
 
 ## Group Members
 
-- Ander
+- Ander (shuqinz2)
 
 - Brandon Dinh (bhdinh2)
 
@@ -28,4 +28,4 @@ The first major component of our project is the web server that will allow users
 
 ### Libraries: 
 
-- https://arewegameyet.rs/
+- https://arewegameyet.rs
