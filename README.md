@@ -38,6 +38,8 @@ Videos:
 - https://www.youtube.com/watch?v=NS9Dh63i_Q4
 - https://www.youtube.com/watch?v=CIhlfJSvxe4
 
-### Game Libraries: 
+### Blackjack
+
+Game Libraries: 
 
 - https://arewegameyet.rs
