@@ -26,10 +26,17 @@ The first major component of our project is the web server that will allow users
 
 ## Documentations
 
-### Chat Server Articles:
+### Chat Server
+
+Articles:
 
 - https://outcrawl.com/rust-react-realtime-chat
 - https://book.async.rs/tutorial/index.html
+
+Videos:
+
+- https://www.youtube.com/watch?v=NS9Dh63i_Q4
+- https://www.youtube.com/watch?v=CIhlfJSvxe4
 
 ### Game Libraries: 
 
