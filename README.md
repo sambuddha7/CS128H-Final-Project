@@ -1,6 +1,6 @@
-# CS128H-Final-Project
+# S1mple Chat
 
-This final project is for CS128 honor in the University of Illinois, started in SP2022.
+This final project is for CS128 honor in the University of Illinois, started in SP2022. In this project, we will be building a chat server that allows its users to play Blackjack.
 
 ## Group Members
 
@@ -9,10 +9,6 @@ This final project is for CS128 honor in the University of Illinois, started in 
 - Brandon Dinh (bhdinh2)
 
 - Liur (ruoliu2)
-
-## S1mple Chat
-
-In this project, we will be building a chat server that allows its users to play Blackjack.
 
 ## System Overview
 
