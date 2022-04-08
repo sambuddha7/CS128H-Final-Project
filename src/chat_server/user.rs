@@ -1,3 +1,4 @@
+use uuid::Uuid;
 #[derive(Debug, Clone, PartialEq)]
 pub struct User {
     pub id: Uuid,
