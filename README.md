@@ -12,6 +12,8 @@ This final project is for CS128 honor in the University of Illinois, started in 
 
 - Liur (ruoliu2)
 
+- Sambuddha Biswas (sbiswas7)
+
 ## System Overview
 
 The first major component of our project is the web server that will allow users to send chat messages. The second major component is the Blackjack game. Both of these will incorporate front-end, back-end, and networking concepts.
