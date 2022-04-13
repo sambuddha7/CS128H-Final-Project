@@ -6,7 +6,7 @@ This final project is for CS128 honor in the University of Illinois, started in 
 
 ## Group Members
 
-- Ander (shuqinz2)
+- Ander Zhu (shuqinz2)
 
 - Brandon Dinh (bhdinh2)
 
@@ -24,7 +24,7 @@ The first major component of our project is the web server that will allow users
 - Developing the graphical interface for chatbox and display the current game state
 - write functionality according to blackjack gaming rules
 
-## Documentations
+## References
 
 ### Chat Server
 
