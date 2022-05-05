@@ -20,9 +20,9 @@ The first major component of our project is the web server that will allow users
 
 ## Possible Challenges
 
-- continuesly updating the game and player status
+- Continuesly updating the game and player status
 - Developing the graphical interface for chatbox and display the current game state
-- write functionality according to blackjack gaming rules
+- Write functionality according to blackjack gaming rules
 
 ## Documentations
 
